@@ -59,9 +59,9 @@ $$
 
 ### 2.2 Translate Sentences into Logic Formulas
 
-* ( p ) = I study
-* ( q ) = I will pass the course
-* ( r ) = The professor accepts bribes
+* p = I study
+* q = I will pass the course
+* r = The professor accepts bribes
 
 ---
 
