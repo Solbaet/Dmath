@@ -1,6 +1,6 @@
-#My Discrete Math Repository
+# My Discrete Math Repository
 
-#Homework 2 - 202628102 KANG MIN JAE
+# Homework 2 - 202628102 KANG MIN JAE
 
 # Dmath
 
